@@ -1,7 +1,5 @@
 //Implementare la funzione adultFilter che, dato un array di persone, filtra e restituisce soltanto coloro che sono maggiorenni.
 
-
-
 const persons = [
     { name: 'Paul', age: 16 },
     { name: 'George', age: 17 },
