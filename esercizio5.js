@@ -3,7 +3,7 @@
 let sum;
 let avg;
 
-function calculateAverageAge(perso0ns) {
+function calculateAverageAge(persons) {
   sum = persons.reduce((a, person) => a + person.age, 0);
   return avg = sum / persons.length
 }
