@@ -3,3 +3,5 @@
 let myString = `Hi, this is my string,
 she is a long sentence formed with:
 BACKTICKS`
+
+console.log(myString);
