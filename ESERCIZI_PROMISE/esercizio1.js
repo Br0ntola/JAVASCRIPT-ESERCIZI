@@ -10,7 +10,6 @@ const info = {
     inglese: 6
 };
 
-
 function fetchDataFromAPI(mail, password) {
 
     console.log("PER POTER RECUPERARE I DATI RICHIESTI INSERIRE MAIL E PASSWORD");
